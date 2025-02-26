@@ -24,7 +24,7 @@ My research focuses on building practical, scalable and efficient systems for ma
 # 🛠️ Skills 
 - Programming Languages: Python, C++, Shell, CUDA
 - Frameworks: PyTorch, VLLM, SGLang
-- Tools: Docker, Kubernetes, Git, Linux
+- Tools: Git, Linux, Docker
 
 
 
