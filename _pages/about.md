@@ -55,6 +55,13 @@ My research focuses on building practical, scalable and efficient systems for ma
   - Deployed Deepseek-R1 model for course students' use
   - Responsible for the model serving system development and maintenance
 
+- *2024.06 - 2024.08* **Large Language Model Inference Framework**
+  - Built a high-performance inference framework from scratch supporting LLaMA/Qwen models
+  - Developed efficient CUDA operators including RMSNorm, GEMV, and multi-head attention
+  - Implemented KV Cache mechanism for optimized inference with dynamic batching support
+  - Designed unified memory management system for automatic CPU/GPU memory handling
+  - Utilized Nsight Compute for performance analysis and operator optimization
+
 - *2022.11 - 2023.02* **Single-Machine SQL Database (CMU-15445)**
   - Implemented a thread-safe buffer pool with LRU-K replacement algorithm
   - Developed concurrent B+ Tree index with optimistic locking
