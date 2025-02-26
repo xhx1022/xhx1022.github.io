@@ -17,7 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Master's student at the School of Computer Science, Sun Yat-sen University, under the supervision of [Prof. Xianwei Zhang](https://xianweiz.github.io/). My research focuses on building practical, scalable and efficient systems for machine learning (MLSys) like serving system. Currently, I am particularly interested in optimizing KV Cache management, developing efficient inference scheduling strategies, and designing multi-agent systems. Previously I completed my Bachelor's degree at the School of Computer Science and Engineering, South China University of Technology (SCUT).
+I am a first-year Master's student at the School of Computer Science, Sun Yat-sen University, under the supervision of [Prof. Xianwei Zhang](https://xianweiz.github.io/). Previously I completed my Bachelor's degree at the School of Computer Science and Engineering, South China University of Technology (SCUT).
+
+My research focuses on building practical, scalable and efficient systems for machine learning (MLSys) like serving system. Currently, I am particularly interested in optimizing KV Cache management, developing efficient inference scheduling strategies, and designing multi-agent systems. 
+
+# 🛠️ Skills 
+- Programming Languages: Python, C++, Shell, CUDA
+- Frameworks: PyTorch, VLLM, SGLang
+- Tools: Docker, Kubernetes, Git, Linux
+
 
 
 
