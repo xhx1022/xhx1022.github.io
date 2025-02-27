@@ -84,4 +84,4 @@ I am particularly interested in building practical, scalable and efficient syste
 
 
 # 💻 Internships
-- *2019.06 - 2019.08*, Algorithm Engineer Intern, Research and Development Center, China Guangfa Bank, Foshan
+- *2023.06 - 2023.08*, Algorithm Engineer Intern, Research and Development Center, China Guangfa Bank, Foshan
