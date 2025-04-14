@@ -21,6 +21,10 @@ I am a first-year Master's student at the School of Computer Science, Sun Yat-se
 
 I am particularly interested in building practical, scalable and efficient systems for machine learning (MLSys) like serving system. Currently, my research focuses on optimizing KV Cache management, developing efficient inference scheduling strategies, and designing multi-agent systems. 
 
+I warmly welcome any academic discussions and collaborations! If you are interested in my research work or have suitable internship opportunities, please feel free to contact me through:
+- Email: xuhx56@mail2.sysu.edu.cn
+- WeChat ID: hx1737006628
+
 # 🛠️ Skills 
 - Programming Languages: Python, C++, Shell, CUDA
 - Frameworks: PyTorch, VLLM, SGLang
