@@ -27,7 +27,7 @@ I warmly welcome any academic discussions and collaborations! If you are interes
 - [My Resume](./resume.pdf)
 
 # 🛠️ Skills 
-- Programming Languages: Python, C++, Shell, CUDA
+- Programming Languages: Python, C++, Shell
 - Frameworks: PyTorch, VLLM, SGLang
 - Tools: Git, Linux, Docker
 
