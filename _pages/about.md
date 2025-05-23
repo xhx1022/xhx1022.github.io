@@ -57,8 +57,9 @@ I warmly welcome any academic discussions and collaborations! If you are interes
 
 # 🚀 Projects 
 - *2025.01 - now* **YatCC-AI**
-  - Deployed Deepseek-R1 model for course students' use
-  - Responsible for the model serving system development and maintenance
+  - Successfully deployed the DeepSeek-R1 model on a supercomputing platform at the earliest time, ensuring immediate accessibility for student instructional use.
+  - Built a Prometheus + Grafana monitoring system to provide real-time visualization of model runtime status and resource utilization.
+  - Developed a RAGFlow-based retrieval-augmented generation system, enabling students to efficiently search and access documentation for compiler course lab assignments.
 
 - *2024.06 - 2024.08* **Large Language Model Inference Framework**
   - Built a high-performance inference framework from scratch supporting LLaMA/Qwen models
