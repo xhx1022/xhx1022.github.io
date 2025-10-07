@@ -17,58 +17,56 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Master's student at the School of Computer Science, Sun Yat-sen University, under the supervision of [Prof. Xianwei Zhang](https://xianweiz.github.io/). Previously I completed my Bachelor's degree at the School of Computer Science and Engineering, South China University of Technology (SCUT).
+I am a second-year Master's student at the School of Computer Science, Sun Yat-sen University, under the supervision of [Prof. Xianwei Zhang](https://xianweiz.github.io/). Previously I completed my Bachelor's degree at the School of Computer Science and Engineering, South China University of Technology (SCUT).
 
-I am particularly interested in building practical, scalable and efficient systems for machine learning (MLSys) like serving system. Currently, my research focuses on optimizing KV Cache management, developing efficient inference scheduling strategies, and designing multi-agent systems. 
+I am particularly interested in building practical, scalable and efficient systems for machine learning (MLSys) like serving system. Currently, my research focuses on optimizing KV Cache management, developing efficient inference scheduling strategies, and improving RLHF efficiency through advanced sampling techniques. 
 
 I warmly welcome any academic discussions and collaborations! If you are interested in my research work or have suitable internship opportunities, please feel free to contact me through:
 - Email: xuhx56@mail2.sysu.edu.cn
 - WeChat ID: hx1737006628
-- [**My Resume(中文简历)**](./简历 (1).pdf)
+- [**My Resume(中文简历)**](./resume.pdf)
 
 # 🛠️ Skills 
 - Programming Languages: Python, C++, Shell
-- Frameworks: PyTorch, VLLM, SGLang
-- Tools: Git, Linux, Docker
+- Frameworks: PyTorch, VLLM, SGLang, slime
+- Tools: Git, Linux, Docker, Nsight System
 
 
 
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🔥 News
+- *2025.09*: &nbsp;🎉🎉 My first paper [DynaPipe](https://neurips.cc/virtual/2025/poster/119240) has been accepted by NeurIPS 2025. 
+- *2025.08*: &nbsp;Joined **SenseTime** as a research intern, focusing on **efficient reinforcement learning for LLM**.  
 
-<!-- # 📝 Publications  -->
+# 📝 Publications  -->
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<button type="button" class="btn btn-sm btn-primary" disabled style="opacity: 1;">NeurIPS'25</button>  **[DynaPipe: Dynamic Layer Redistribution for Efficient Serving of LLMs with Pipeline Parallelism](https://neurips.cc/virtual/2025/poster/119240)** <br>
+**Hongxin Xu**, Tianyu Guo, Xianwei Zhang<br>
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+<button type="button" class="btn btn-sm btn-primary" disabled style="opacity: 1;">arXiv</button> **[Bullet: Boosting GPU Utilization for LLM Serving via Dynamic Spatial-Temporal Orchestration](https://arxiv.org/abs/2504.19516)** <br>
+Zejia Lin, **Hongxin Xu**, Guanyi Chen, Zhiguang Chen, Yutong Lu, and Xianwei Zhang. <br>
 
 
-# 🚀 Projects 
+# 💻 Internships
+- *2025.08 – Present*: **RLHF Infrastructure Research Intern**, SenseTime, Shenzhen.  
+Supervised by **Shihao Bai** and [**Ruihao Gong**](https://xhplus.github.io/).
+- *2023.06 - 2023.08*, **Algorithm Engineer Intern**, Research and Development Center, China Guangfa Bank, Foshan
+
+
+<!-- # 🚀 Projects 
 - *2025.01 - now* **YatCC-AI**
-  - Successfully deployed the DeepSeek-R1 model on a supercomputing platform at the earliest time, ensuring immediate accessibility for student instructional use.
+  - Successfully deployed the DeepSeek-R1 model on a supercomputing platform, ensuring immediate accessibility for student instructional use.
   - Built a Prometheus + Grafana monitoring system to provide real-time visualization of model runtime status and resource utilization.
   - Developed a RAGFlow-based retrieval-augmented generation system, enabling students to efficiently search and access documentation for compiler course lab assignments.
 
-- *2024.06 - 2024.08* **Large Language Model Inference Framework**
+<!-- - *2024.06 - 2024.08* **Large Language Model Inference Framework**
   - Built a high-performance inference framework from scratch supporting LLaMA/Qwen models
   - Developed efficient CUDA operators including RMSNorm, GEMV, and multi-head attention
   - Implemented KV Cache mechanism for optimized inference with dynamic batching support
   - Designed unified memory management system for automatic CPU/GPU memory handling
-  - Utilized Nsight Compute for performance analysis and operator optimization
+  - Utilized Nsight Compute for performance analysis and operator optimization -->
 
-- *2022.11 - 2023.02* **Single-Machine SQL Database (CMU-15445)**
+<!-- - *2022.11 - 2023.02* **Single-Machine SQL Database (CMU-15445)**
   - Implemented a thread-safe buffer pool with LRU-K replacement algorithm
   - Developed concurrent B+ Tree index with optimistic locking
   - Built query execution engine supporting SELECT, JOIN, and other SQL operations
@@ -76,10 +74,11 @@ I warmly welcome any academic discussions and collaborations! If you are interes
 - *2022.09 - 2022.12* **RISC-V Unix-like Operating System (MIT6.S081)**
   - Implemented virtual memory management with lazy allocation
   - Developed copy-on-write fork and alarm system calls
-  - Enhanced file system performance with multi-threaded block cache
+  <!-- - Enhanced file system performance with multi-threaded block cache -->
 
 
 # 🎖 Honors and Awards
+- *2025,09* First-Class Scholarship, Sun Yat-sen University
 - *2024.09* Second-Class Scholarship, Sun Yat-sen University
 - *2023.09 & 2022.09* Second-Class Scholarship, South China University of Technology
 - *2021.09* Anjubao Enterprise Scholarship (Ranked 5/73)
@@ -87,7 +86,3 @@ I warmly welcome any academic discussions and collaborations! If you are interes
 # 📖 Educations
 - *2024.09 - present*, Master, School of Computer Science, Sun Yat-sen University
 - *2020.09 - 2024.06*, Undergraduate, School of Computer Science and Engineering, South China University of Technology(12/166)
-
-
-# 💻 Internships
-- *2023.06 - 2023.08*, Algorithm Engineer Intern, Research and Development Center, China Guangfa Bank, Foshan
