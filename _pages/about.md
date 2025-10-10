@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Master's student at the School of Computer Science, Sun Yat-sen University, under the supervision of [Prof. Xianwei Zhang](https://xianweiz.github.io/). Previously I completed my Bachelor's degree at the School of Computer Science and Engineering, South China University of Technology (SCUT).
+I am a second-year Master's student of Computer Science and Technology at Sun Yat-sen University, under the supervision of [Prof. Xianwei Zhang](https://xianweiz.github.io/). Previously I completed my Bachelor's degree at South China University of Technology (SCUT).
 
-I am particularly interested in building practical, scalable and efficient systems for machine learning (MLSys) like serving system. Currently, my research focuses on optimizing KV Cache management, developing efficient inference scheduling strategies, and improving RLHF efficiency through advanced sampling techniques. 
+I am particularly interested in building practical, scalable and efficient systems for machine learning (MLSys) like serving system. Currently, my research focuses on optimizing KV Cache management, developing efficient inference scheduling strategies, and improving RLVR efficiency through advanced sampling techniques. 
 
 I warmly welcome any academic discussions and collaborations! If you are interested in my research work or have suitable internship opportunities, please feel free to contact me through:
 - Email: xuhx56@mail2.sysu.edu.cn
@@ -55,7 +55,7 @@ Zejia Lin, **Hongxin Xu**, Guanyi Chen, Zhiguang Chen, Yutong Lu, and Xianwei Zh
 
 # 💻 Internships
 - *2025.08 – Present*: **RL Infrastructure Research Intern**, SenseTime, Shenzhen.  
-Supervised by Shihao Bai and [Ruihao Gong](https://xhplus.github.io/).
+Supervised by [Shihao Bai](https://scholar.google.com.hk/citations?hl=ja&user=k3orJesAAAAJ&view_op=list_works&sortby=pubdate) and [Ruihao Gong](https://xhplus.github.io/).
 - *2023.06 - 2023.08*, **Algorithm Engineer Intern**, Research and Development Center, China Guangfa Bank, Foshan
 
 
