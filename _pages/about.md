@@ -54,7 +54,7 @@ Zejia Lin, **Hongxin Xu**, Guanyi Chen, Zhiguang Chen, Yutong Lu, and Xianwei Zh
 
 
 # 💻 Internships
-- *2025.08 – Present*: **RLHF Infrastructure Research Intern**, SenseTime, Shenzhen.  
+- *2025.08 – Present*: **RL Infrastructure Research Intern**, SenseTime, Shenzhen.  
 Supervised by Shihao Bai and [Ruihao Gong](https://xhplus.github.io/).
 - *2023.06 - 2023.08*, **Algorithm Engineer Intern**, Research and Development Center, China Guangfa Bank, Foshan
 
