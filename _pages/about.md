@@ -52,7 +52,7 @@ I warmly welcome any academic discussions and collaborations! If you are interes
 </button> **[Bullet: Boosting GPU Utilization for LLM Serving via Dynamic Spatial-Temporal Orchestration](https://arxiv.org/abs/2504.19516)** <br>
 Zejia Lin, **Hongxin Xu**, Guanyi Chen, Zhiguang Chen, Yutong Lu, and Xianwei Zhang. <br>
 
-<sup>#</sup>Equal contribution<br>
+<sup>#</sup> Equal contribution<br>
 
 
 # 💻 Internships
