@@ -38,7 +38,7 @@ I warmly welcome any academic discussions and collaborations! If you are interes
 - *2025.09*: &nbsp;🎉🎉 My first paper [DynaPipe](https://neurips.cc/virtual/2025/poster/119240) has been accepted by NeurIPS 2025. 
 - *2025.08*: &nbsp;Joined **SenseTime** as a research intern, focusing on **efficient reinforcement learning for LLM**.  
 
-# 📝 Publications  -->
+# 📝 Publications
 
 <button type="button" class="btn btn-sm btn-primary" disabled 
   style="opacity: 1; font-size: 13px; padding: 2.5px 7px; line-height: 1;">
