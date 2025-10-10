@@ -44,13 +44,15 @@ I warmly welcome any academic discussions and collaborations! If you are interes
   style="opacity: 1; font-size: 13px; padding: 2.5px 7px; line-height: 1;">
   NeurIPS'25
 </button> **[DynaPipe: Dynamic Layer Redistribution for Efficient Serving of LLMs with Pipeline Parallelism](https://neurips.cc/virtual/2025/poster/119240)** <br>
-**Hongxin Xu**, Tianyu Guo, Xianwei Zhang<br>
+**Hongxin Xu**<sup>*</sup>, Tianyu Guo<sup>*</sup>, Xianwei Zhang<br>
 
 <button type="button" class="btn btn-sm btn-primary" disabled 
   style="opacity: 1; font-size: 13px; padding: 2.5px 7px; line-height: 1;">
   arXiv
 </button> **[Bullet: Boosting GPU Utilization for LLM Serving via Dynamic Spatial-Temporal Orchestration](https://arxiv.org/abs/2504.19516)** <br>
 Zejia Lin, **Hongxin Xu**, Guanyi Chen, Zhiguang Chen, Yutong Lu, and Xianwei Zhang. <br>
+
+<sup>*</sup>Equal contribution<br>
 
 
 # 💻 Internships
