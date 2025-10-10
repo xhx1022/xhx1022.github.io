@@ -92,5 +92,5 @@ Supervised by [Shihao Bai](https://scholar.google.com.hk/citations?hl=ja&user=k3
 - *2021.09* Anjubao Enterprise Scholarship (Ranked 5/73)
 
 # 📖 Educations
-- *2024.09 - present*, Master, School of Computer Science, Sun Yat-sen University
-- *2020.09 - 2024.06*, Undergraduate, School of Computer Science and Engineering, South China University of Technology(12/166)
+- *2024.09 - present*, Master’s in Computer Science, Sun Yat-sen University
+- *2020.09 - 2024.06*, Bachelor’s in Computer Science and Engineering, South China University of Technology(12/166)
