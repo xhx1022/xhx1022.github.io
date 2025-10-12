@@ -86,6 +86,7 @@ Supervised by [Shihao Bai](https://scholar.google.com.hk/citations?hl=ja&user=k3
 
 
 # 🎖 Honors and Awards
+- *2025.10* NeurIPS 2025 Scholar Award
 - *2025,09* First-Class Scholarship, Sun Yat-sen University
 - *2024.09* Second-Class Scholarship, Sun Yat-sen University
 - *2023.09 & 2022.09* Second-Class Scholarship, South China University of Technology
