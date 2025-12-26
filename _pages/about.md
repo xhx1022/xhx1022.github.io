@@ -24,7 +24,7 @@ I am particularly interested in building practical, scalable and efficient syste
 I warmly welcome any academic discussions and collaborations! If you are interested in my research work or have suitable internship opportunities, please feel free to contact me through:
 - Email: xuhx56@mail2.sysu.edu.cn
 - WeChat ID: hx1737006628
-- [**My Resume(中文简历)**](./resume.pdf)
+<!-- - [**My Resume(中文简历)**](./resume.pdf) -->
 
 # 🛠️ Skills 
 - Programming Languages: Python, C++, Shell
@@ -56,7 +56,7 @@ Zejia Lin, **Hongxin Xu**, Guanyi Chen, Zhiguang Chen, Yutong Lu, and Xianwei Zh
 
 
 # 💻 Internships
-- *2025.08 – Present*: **RL Infra Research Intern**, SenseTime, Shenzhen.  
+- *2025.08 – 2025.12*: **RL Infra Research Intern**, SenseTime, Shenzhen.  
 Supervised by [Shihao Bai](https://scholar.google.com.hk/citations?hl=ja&user=k3orJesAAAAJ&view_op=list_works&sortby=pubdate) and [Ruihao Gong](https://xhplus.github.io/).
 - *2023.06 - 2023.08*, **Algorithm Engineer Intern**, Research and Development Center, China Guangfa Bank, Foshan
 
