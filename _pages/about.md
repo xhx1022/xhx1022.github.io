@@ -56,9 +56,9 @@ Zejia Lin, **Hongxin Xu**, Guanyi Chen, Zhiguang Chen, Yutong Lu, and Xianwei Zh
 
 
 # 💻 Internships
-<!-- - - *2026.01 – now*: **RL Infra QingYun Intern**, Tencent, Shenzhen.-->
+<!-- - - *2026.01 – now*, **RL Infra QingYun Intern**, Tencent, Shenzhen.-->
 <!-- - Supervised by [Guangming Sheng](https://scholar.google.com/citations?user=yCKicYcAAAAJ&hl=zh-CN)-->
-- *2025.08 – 2025.12*: **RL Infra Research Intern**, SenseTime, Shenzhen.  
+- *2025.08 – 2025.12*, **RL Infra Research Intern**, SenseTime, Shenzhen.  
 Supervised by [Shihao Bai](https://scholar.google.com.hk/citations?hl=ja&user=k3orJesAAAAJ&view_op=list_works&sortby=pubdate) and [Ruihao Gong](https://xhplus.github.io/).
 - *2023.06 - 2023.08*, **Algorithm Engineer Intern**, Research and Development Center, China Guangfa Bank, Foshan
 
