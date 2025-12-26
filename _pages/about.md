@@ -56,36 +56,14 @@ Zejia Lin, **Hongxin Xu**, Guanyi Chen, Zhiguang Chen, Yutong Lu, and Xianwei Zh
 
 
 # 💻 Internships
+<!-- - - *2026.01 – now*: **RL Infra QingYun Intern**, Tencent, Shenzhen.-->
+<!-- - Supervised by [Guangming Sheng](https://scholar.google.com/citations?user=yCKicYcAAAAJ&hl=zh-CN)-->
 - *2025.08 – 2025.12*: **RL Infra Research Intern**, SenseTime, Shenzhen.  
 Supervised by [Shihao Bai](https://scholar.google.com.hk/citations?hl=ja&user=k3orJesAAAAJ&view_op=list_works&sortby=pubdate) and [Ruihao Gong](https://xhplus.github.io/).
 - *2023.06 - 2023.08*, **Algorithm Engineer Intern**, Research and Development Center, China Guangfa Bank, Foshan
 
-
-<!-- # 🚀 Projects 
-- *2025.01 - now* **YatCC-AI**
-  - Successfully deployed the DeepSeek-R1 model on a supercomputing platform, ensuring immediate accessibility for student instructional use.
-  - Built a Prometheus + Grafana monitoring system to provide real-time visualization of model runtime status and resource utilization.
-  - Developed a RAGFlow-based retrieval-augmented generation system, enabling students to efficiently search and access documentation for compiler course lab assignments.
-
-<!-- - *2024.06 - 2024.08* **Large Language Model Inference Framework**
-  - Built a high-performance inference framework from scratch supporting LLaMA/Qwen models
-  - Developed efficient CUDA operators including RMSNorm, GEMV, and multi-head attention
-  - Implemented KV Cache mechanism for optimized inference with dynamic batching support
-  - Designed unified memory management system for automatic CPU/GPU memory handling
-  - Utilized Nsight Compute for performance analysis and operator optimization -->
-
-<!-- - *2022.11 - 2023.02* **Single-Machine SQL Database (CMU-15445)**
-  - Implemented a thread-safe buffer pool with LRU-K replacement algorithm
-  - Developed concurrent B+ Tree index with optimistic locking
-  - Built query execution engine supporting SELECT, JOIN, and other SQL operations
-
-- *2022.09 - 2022.12* **RISC-V Unix-like Operating System (MIT6.S081)**
-  - Implemented virtual memory management with lazy allocation
-  - Developed copy-on-write fork and alarm system calls
-  <!-- - Enhanced file system performance with multi-threaded block cache -->
-
-
 # 🎖 Honors and Awards
+- *2025.11* Tencent Special Scholarship
 - *2025.10* NeurIPS 2025 Scholar Award
 - *2025,09* First-Class Scholarship, Sun Yat-sen University
 - *2024.09* Second-Class Scholarship, Sun Yat-sen University
