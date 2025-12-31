@@ -28,7 +28,7 @@ I warmly welcome any academic discussions and collaborations! If you are interes
 
 # 🛠️ Skills 
 - Programming Languages: Python, C++, Shell
-- Frameworks: PyTorch, VLLM, SGLang, slime
+- Frameworks: PyTorch, VLLM, SGLang, verl, slime
 - Tools: Git, Linux, Docker, Nsight System
 
 
