@@ -23,7 +23,7 @@ I am particularly interested in building practical, scalable and efficient syste
 
 I warmly welcome any academic discussions and collaborations! If you are interested in my research work or have suitable internship opportunities, please feel free to contact me through:
 - Email: xuhx56@mail2.sysu.edu.cn
-- WeChat ID: hx1737006628
+- WeChat ID: `echo "aHgxNzM3MDA2NjI4" | base64 --d`
 <!-- - [**My Resume(中文简历)**](./resume.pdf) -->
 
 # 🛠️ Skills 
