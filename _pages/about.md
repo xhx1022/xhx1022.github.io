@@ -19,7 +19,7 @@ redirect_from:
 
 I am a second-year Master's student of Computer Science and Technology at Sun Yat-sen University, under the supervision of [Prof. Xianwei Zhang](https://xianweiz.github.io/). Previously I completed my Bachelor's degree at South China University of Technology (SCUT).
 
-I am particularly interested in building practical, scalable and efficient systems for machine learning (MLSys) like serving system. Currently, my research focuses on optimizing KV Cache management, developing efficient inference scheduling strategies, and improving RLVR efficiency through advanced sampling techniques. 
+My research focuses on building practical, scalable, and efficient systems for machine learning (MLSys). I am an active contributor to open-source projects including [vLLM](https://github.com/vllm-project/vllm) and [veRL](https://github.com/volcengine/verl).
 
 I warmly welcome any academic discussions and collaborations! If you are interested in my research work or have suitable internship opportunities, please feel free to contact me through:
 - Email: xuhx56@mail2.sysu.edu.cn
@@ -35,8 +35,9 @@ I warmly welcome any academic discussions and collaborations! If you are interes
 
 
 # 🔥 News
+- *2026.01*: &nbsp;Joined **Tencent** as a research intern(Qingyun Project).  
 - *2025.09*: &nbsp;🎉🎉 My first paper [DynaPipe](https://neurips.cc/virtual/2025/poster/119240) has been accepted by NeurIPS 2025. 
-- *2025.08*: &nbsp;Joined **SenseTime** as a research intern, focusing on **efficient reinforcement learning for LLM**.  
+- *2025.08*: &nbsp;Joined **SenseTime** as a research intern.  
 
 # 📝 Publications
 
