@@ -35,7 +35,7 @@ I warmly welcome any academic discussions and collaborations! If you are interes
 
 
 # 🔥 News
-- *2026.01*: &nbsp;Joined **Tencent** as a research intern(Qingyun Project).  
+- *2026.01*: &nbsp;Joined **Tencent** as a research intern.  
 - *2025.09*: &nbsp;🎉🎉 My first paper [DynaPipe](https://neurips.cc/virtual/2025/poster/119240) has been accepted by NeurIPS 2025. 
 - *2025.08*: &nbsp;Joined **SenseTime** as a research intern.  
 
